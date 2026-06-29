@@ -207,11 +207,13 @@
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
       "bases:新規ベースを作成": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "365985df38b08562",
   "lastOpenFiles": [
+    "README.md",
     "02_Projects/長期インターン/クロスポイント・アドバイザーズ.md",
     "02_Projects/長期インターン/候補会社リスト.md",
     "02_Projects/長期インターン/README.md",
